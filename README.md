@@ -1,239 +1,231 @@
-<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-
-<h3 align="center">
-BCA Student • Java & DSA • React • Full-Stack Development
-</h3>
+<h1 align="center">Rakesh Kumar</h1>
 
 <p align="center">
-  <a href="https://github.com/9955-Rakesh">
-    <img src="https://komarev.com/ghpvc/?username=9955-rakesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <b>BCA Student · Software Engineering · Web Development</b>
 </p>
 
 <p align="center">
-  <strong>Building practical software projects while developing strong foundations in software engineering, problem solving, and modern web development.</strong>
+  <i>Learning how to turn ideas into software that actually works.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:kr5812723@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/9955-Rakesh">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
-* 🎓 BCA student currently focused on becoming a stronger software engineer through **projects + DSA + consistent practice**.
-* ⚛️ Building modern web interfaces with **JavaScript, React, HTML & CSS**.
-* ☕ Strengthening my backend and programming fundamentals with **Java, OOP, DSA and SQL**.
-* 🧠 Exploring how **AI-assisted development** can improve productivity while keeping code understandable, tested and maintainable.
-* 🚀 Currently looking for opportunities to gain **real-world internship/project experience**.
+I'm a BCA student from India, currently in my 3rd year.
 
----
+I started with the basics of programming and web development. Now I'm gradually moving toward building complete applications — from **UI and user interactions to backend logic, databases and problem solving**.
 
-## 🛠️ Tech Stack
+I don't want my GitHub to be a collection of copied tutorials.
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-RDBMS-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-orange?style=flat-square" />
-</p>
-
-### Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+I want it to show **what I built, what went wrong, how I fixed it, and what I learned.**
 
 ---
 
-## 🚀 What I'm Building
-
-### 01. Task Management Application
-
-A responsive task management interface built to practice real-world React development.
-
-**Focus:**
-
-* React component architecture
-* State management
-* Task creation and updates
-* Responsive UI
-* Reusable components
-* Clean user interactions
-
-**Tech:** `React` `JavaScript` `HTML` `CSS`
-
----
-
-### 02. AI Interview Simulator
-
-A React-based application focused on creating an interactive interview-practice experience.
-
-**Focus:**
-
-* Component-based architecture
-* React state and props
-* Routing
-* User interaction flows
-* Interview categories
-* Result-oriented UI
-
-**Tech:** `React` `Vite` `JavaScript`
-
----
-
-### 03. Student Management System
-
-A planned full-stack project focused on understanding how a real application connects its frontend, backend and database layers.
-
-**Planned architecture:**
+## `current_state`
 
 ```text
+┌──────────────────────────────────────────────────────────┐
+│                    RAKESH / 2026                         │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  Frontend        React · JavaScript · HTML · CSS         │
+│                                                          │
+│  Programming     Java · C · C++ · Python                 │
+│                                                          │
+│  Problem Solving DSA · OOP · Algorithms                  │
+│                                                          │
+│  Data            SQL · RDBMS · JDBC                      │
+│                                                          │
+│  Tools           Git · GitHub · VS Code                  │
+│                                                          │
+│  Exploring       AI-assisted development · Backend       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `what_am_i_building?`
+
+### ⚡ Task Management App
+
+A small application that started as a frontend exercise and is becoming a way to understand how real interactive applications are structured.
+
+**Currently exploring**
+
+`React` → `Components` → `State` → `Events` → `Reusable UI`
+
+> Goal: move beyond making a UI that looks good and understand the logic that makes it work.
+
+---
+
+### 🎙️ AI Interview Simulator
+
+An interactive interview-practice application built with React.
+
+The project is helping me understand how multiple screens, components, routes and application states work together.
+
+**Architecture**
+
+```text
+User
+ │
+ ▼
+React UI
+ │
+ ├── Authentication
+ ├── Interview Categories
+ ├── Interview
+ ├── Webcam
+ └── Results
+```
+
+---
+
+### 🏫 Student Management System
+
+My next step toward understanding full-stack application development.
+
+```text
+Browser
+   │
+   ▼
 Frontend
-   ↓
+   │
+   ▼
 Java Backend
-   ↓
+   │
+   ▼
 JDBC
-   ↓
+   │
+   ▼
 Oracle Database
 ```
 
-**Focus:**
+**Learning through the project**
 
-* CRUD operations
-* Java OOP
-* JDBC
-* SQL & database design
-* Form validation
-* Backend fundamentals
+`CRUD` · `Java OOP` · `JDBC` · `SQL` · `Database Design`
 
 ---
 
-## 🧠 Current Engineering Focus
+## `how_i_learn`
+
+I don't measure progress by the number of tutorials completed.
+
+I measure it by whether I can answer:
 
 ```text
-React
-  ↓
-Modern JavaScript
-  ↓
-Frontend Architecture
-  ↓
-Java + OOP
-  ↓
-DSA & Problem Solving
-  ↓
-SQL + Backend Fundamentals
-  ↓
-Real-World Projects
+What problem am I solving?
+        ↓
+Why does this approach work?
+        ↓
+Can I implement it myself?
+        ↓
+What happens when it breaks?
+        ↓
+Can I explain the code?
+        ↓
+Can I improve the solution?
 ```
 
-My current goal isn't to collect technologies.
+That's also how I use AI.
 
-It's to become capable of **understanding a problem, designing a solution, writing the code, debugging it, and explaining why it works.**
+**AI helps me explore.
+I still need to understand.**
 
 ---
 
-## 🤖 AI-Assisted Development
-
-I use AI as an engineering assistant — not as a replacement for understanding.
-
-My workflow:
+## `engineering_interests`
 
 ```text
-Problem
-   ↓
-Understand Requirements
-   ↓
-Explore Possible Solutions
-   ↓
-Implement
-   ↓
-Test & Debug
-   ↓
-Review AI-Assisted Code
-   ↓
-Refactor & Improve
+        ┌─────────────────────┐
+        │   Software Systems  │
+        └──────────┬──────────┘
+                   │
+       ┌───────────┼───────────┐
+       ▼           ▼           ▼
+    Frontend     Backend      DSA
+       │           │           │
+     React        Java      Algorithms
+       │           │           │
+    UI/UX         SQL       Problem
+   Components    JDBC       Solving
+       │           │           │
+       └───────────┼───────────┘
+                   ▼
+            Real Applications
 ```
 
-Areas where I use AI:
+---
 
-* Debugging and error analysis
-* Exploring implementation approaches
-* Generating test cases
-* Understanding unfamiliar concepts
-* Documentation
-* Code review and refactoring ideas
+## `tech`
 
-The goal is to **understand the final code and be able to maintain it independently.**
+**Languages**
+
+`Java` `C` `C++` `Python` `JavaScript`
+
+**Web**
+
+`HTML` `CSS` `React` `Vite`
+
+**Backend / Data**
+
+`Java` `JDBC` `SQL` `RDBMS` `REST APIs`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 📚 Currently Learning
+## `currently_learning`
 
-* ⚛️ React & modern frontend development
-* 🧩 JavaScript, DOM & asynchronous programming
-* ☕ Java & Object-Oriented Programming
-* 🧠 Data Structures & Algorithms
-* 🗄️ SQL & relational database concepts
-* 🔗 Backend & REST API fundamentals
-* 🏗️ Building larger projects instead of isolated tutorials
+```diff
++ React & component architecture
++ JavaScript & DOM
++ Java for backend development
++ Data Structures & Algorithms
++ SQL & database design
++ Building complete projects
+
+- collecting technologies without using them
+- blindly copying AI-generated code
+```
 
 ---
 
-## 📊 GitHub Activity
+## `github`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=9955-Rakesh&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9955-Rakesh&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=9955-Rakesh&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 🎯 2026–27 Goal
+## `outside_the_code`
 
-> **Build → Break → Debug → Understand → Improve → Repeat**
+I enjoy exploring new technology, breaking things while learning, and figuring out why something works rather than only knowing how to use it.
 
-My focus is to turn academic knowledge into **real software engineering ability** through consistent DSA practice, meaningful projects, and hands-on development.
+Currently focused on one thing:
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:kr5812723@gmail.com">
-<img src="https://img.shields.io/badge/Email-kr5812723-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/9955-Rakesh">
-<img src="https://img.shields.io/badge/GitHub-9955--Rakesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+> **Become good enough to build without needing a tutorial open beside me.**
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building intentionally. Solving problems.</i>
+  <b>Build something → get stuck → understand it → fix it → repeat.</b>
+</p>
+
+<p align="center">
+  <sub>Last updated: 2026</sub>
 </p>
